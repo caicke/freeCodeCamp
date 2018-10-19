@@ -111,6 +111,9 @@ Alguns dos princípios que influenciaram o design do Python estão incluídos co
 1.  Linguagem interativa com suporte de módulo para quase todas as funcionalidades.
 2.  Código aberto: Assim, você pode contribuir para a comunidade, as funções que você desenvolveu para uso futuro e para ajudar os outros.
 3.  Um monte de bons intérpretes e notebooks disponíveis para uma melhor experiência como o notebook jupyter.
+4.  É uma linguagem boa para prototipação, isto é, você pode testar a sua lógica e ver se ela funciona, antes de implementá-la em uma linguagem de mais baixo nível.
+5.  Linguagem boa para quem está começando a programar, pois ela abstrai muitas sintaxes e comportamentos do programa.
+6. É uma linguagem bem portátil e extensiva.
 
 #### Contras
 
